@@ -4,9 +4,10 @@
       <root url="jar://$PROJECT_DIR$/../../../caches/transforms-2/files-2.1/559662810ea8b63b964f3a6526d5c617/jetified-hydratransport-0.19.7/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../../caches/transforms-2/files-2.1/559662810ea8b63b964f3a6526d5c617/jetified-hydratransport-0.19.7/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../../../caches/transforms-2/files-2.1/559662810ea8b63b964f3a6526d5c617/jetified-hydratransport-0.19.7/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b080b00ef1316b4d2e1650a96fec0334/jetified-hydratransport-0.19.7/res" />
       <root url="file://$PROJECT_DIR$/../../../caches/transforms-2/files-2.1/559662810ea8b63b964f3a6526d5c617/jetified-hydratransport-0.19.7/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../caches/transforms-2/files-2.1/559662810ea8b63b964f3a6526d5c617/jetified-hydratransport-0.19.7/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

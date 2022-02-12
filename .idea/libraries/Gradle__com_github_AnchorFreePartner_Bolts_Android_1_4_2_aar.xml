@@ -1,8 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: com.github.AnchorFreePartner:Bolts-Android:1.4.2@aar">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../../caches/transforms-2/files-2.1/63b79923bb4206400a8da04a0b50ad98/jetified-Bolts-Android-1.4.2/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../../../caches/transforms-2/files-2.1/63b79923bb4206400a8da04a0b50ad98/jetified-Bolts-Android-1.4.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3e2221b81cfb7ad55bc6bd9b5dc3e2c9/jetified-Bolts-Android-1.4.2/res" />
+      <root url="jar://$PROJECT_DIR$/../../../caches/transforms-2/files-2.1/63b79923bb4206400a8da04a0b50ad98/jetified-Bolts-Android-1.4.2/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../../../caches/transforms-2/files-2.1/63b79923bb4206400a8da04a0b50ad98/jetified-Bolts-Android-1.4.2/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />

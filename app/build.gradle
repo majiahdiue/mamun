@@ -4,13 +4,13 @@ apply plugin: 'com.onesignal.androidsdk.onesignal-gradle-plugin'
 
 
 android {
-    compileSdkVersion 32
+    compileSdkVersion 31
     useLibrary 'org.apache.http.legacy'
 
     defaultConfig {
         applicationId "com.hyappinc.redxvpn"
         minSdkVersion 21
-        targetSdkVersion 32
+        targetSdkVersion 31
         versionCode 6
         versionName "1.0.6"
         testInstrumentationRunner 'androidx.test.runner.AndroidJUnitRunner'

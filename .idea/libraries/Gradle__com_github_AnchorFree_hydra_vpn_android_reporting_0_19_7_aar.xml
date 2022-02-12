@@ -4,8 +4,9 @@
       <root url="jar://$PROJECT_DIR$/../../../caches/transforms-2/files-2.1/6579daff4bbb7b69ab0eb6bbb597c1bb/jetified-reporting-0.19.7/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../../caches/transforms-2/files-2.1/6579daff4bbb7b69ab0eb6bbb597c1bb/jetified-reporting-0.19.7/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../../../caches/transforms-2/files-2.1/6579daff4bbb7b69ab0eb6bbb597c1bb/jetified-reporting-0.19.7/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/79af3dbcf90606dc8fa88975c8b4c806/jetified-reporting-0.19.7/res" />
+      <root url="jar://$PROJECT_DIR$/../../../caches/transforms-2/files-2.1/6579daff4bbb7b69ab0eb6bbb597c1bb/jetified-reporting-0.19.7/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../../../caches/transforms-2/files-2.1/6579daff4bbb7b69ab0eb6bbb597c1bb/jetified-reporting-0.19.7/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />

@@ -1,8 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: com.github.AnchorFreePartner.hydra-sdk-android:sdk-notifications:3.6.1@aar">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../../caches/transforms-2/files-2.1/f3f693f5ad38f2c21dbba2d98af2ee45/jetified-sdk-notifications-3.6.1/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../../../caches/transforms-2/files-2.1/f3f693f5ad38f2c21dbba2d98af2ee45/jetified-sdk-notifications-3.6.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/22fc5a7c373109cfb76190cbdc5875ad/jetified-sdk-notifications-3.6.1/res" />
+      <root url="jar://$PROJECT_DIR$/../../../caches/transforms-2/files-2.1/f3f693f5ad38f2c21dbba2d98af2ee45/jetified-sdk-notifications-3.6.1/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../../../caches/transforms-2/files-2.1/f3f693f5ad38f2c21dbba2d98af2ee45/jetified-sdk-notifications-3.6.1/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />

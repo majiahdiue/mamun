@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:layout_margin="5dp"
+    android:background="@drawable/rounded_corner"
+    android:gravity="center"
+    android:orientation="horizontal"
+    android:padding="10dp">
+
+    <ImageView
+        android:id="@+id/flag_img"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:src="@drawable/earth" />
+
+    <TextView
+        android:id="@+id/country_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:paddingLeft="10dp"
+        android:text="server1"
+        android:textColor="#fff"
+        android:textSize="16sp" />
+
+    <ImageView
+        android:id="@+id/signal_img"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:src="@drawable/signal"
+        android:visibility="visible" />
+
+    <ImageView
+        android:id="@+id/premium_img"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_marginStart="5dp"
+        android:src="@drawable/ic_premium"
+        android:visibility="gone" />
+</LinearLayout>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.AnchorFreePartner.toolkit-android:toolkit:1.5.7@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../caches/transforms-2/files-2.1/4b5681ec49e71124b35c92047a8c651d/jetified-toolkit-1.5.7/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../caches/transforms-2/files-2.1/4b5681ec49e71124b35c92047a8c651d/jetified-toolkit-1.5.7/res" />
+      <root url="file://$PROJECT_DIR$/../../../caches/transforms-2/files-2.1/4b5681ec49e71124b35c92047a8c651d/jetified-toolkit-1.5.7/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

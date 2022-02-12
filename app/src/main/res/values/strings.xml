@@ -1,0 +1,100 @@
+<resources>
+    <string name="app_name">Quick VPN</string>
+
+
+    <!--    one signal app id-->
+    <string name="onsignalappid" translatable="false">cfe13692-7431-4a8a-8c74-2e527d7c3d74</string>
+
+    <string name="AdmobAppId" translatable="false">ca-app-pub-5010476051261208~5091203176</string>
+    <string name="AdmobBanner" translatable="false">ca-app-pub-5010476051261208/1332158063</string>
+    <string name="AdmobInterstitial" translatable="false">ca-app-pub-5010476051261208/1301181387</string>
+    <string name="AdmobAppopenads" translatable="false">ca-app-pub-5010476051261208/6381882802</string>
+    <string name="AdmobRewardID" translatable="false">ca-app-pub-5010476051261208/8971046147</string>
+    <string name="AdmobNative" translatable="false">ca-app-pub-5010476051261208/4892690590</string>
+
+
+
+
+    <string name="playstoresubscription_premium1month" translatable="false">1ak_mas</string>
+    <string name="playstoresubscription_premium3month" translatable="false">3tin_mas</string>
+    <string name="playstoresubscription_premium6months" translatable="false">6chhoi_mas</string>
+    <string name="playstoresubscription_premium12months" translatable="false">12baro_mas</string>
+
+
+    <string name="Rate_now">Its All About Love\nRate Now</string>
+    <string name="show_love">Do You Find Our App Useful? \nIf Yes, Show Us Your Love.></string>
+    <string name="not_now">Not Now</string>
+    <string name="rate_us">Rate Us</string>
+
+
+    <string name="vpn_process_name" translatable="false">:my.custom.vpn.process.name</string>
+    <string name="vpn_provider_authorities" translatable="false">com.anchorfree.hydrasdk.app.demo</string>
+
+    <string name="log_in">LOGIN</string>
+    <string name="log_out">LOGOUT</string>
+    <string name="connect">CONNECT</string>
+    <string name="disconnect">DISCONNECT</string>
+    <string name="optimal_server">OPTIMAL SERVER</string>
+    <string name="unknown">UNKNOWN</string>
+
+    <string name="devices_exceed">Available device count is exceed. Please consider upgrading your subscription.</string>
+    <string name="sessions_exceed">Available active session count is exceed. Please consider upgrading your subscription.</string>
+
+    <string name="network_error">Network error…</string>
+    <string name="network_error_message">Internet is not available, reconnect network and try again.</string>
+
+    <string name="version">Version </string>
+    <string name="app_error">Application error</string>
+    <string name="no_data">No data</string>
+    <string name="personal_information">Personal Information</string>
+    <string name="account_type">Account Type</string>
+    <string name="activated_devices">Activated Devices</string>
+    <string name="account">Account</string>
+    <string name="signin_error">Unable to sign in</string>
+    <string name="no_network">Unable to connect to server. Check your Internet connection.</string>
+    <string name="online_devices">Online Devices</string>
+    <string name="please_wait">Please Wait</string>
+    <string name="vpn_server_location">VPN Server Location</string>
+    <string name="vpn_node">VPN Node</string>
+    <string name="legal_information">Legal Information</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="terms_of_service">Terms of Service</string>
+
+    <string name="logged_in">Logged in</string>
+    <string name="logged_out">Logged out</string>
+    <string name="connected">Connected</string>
+    <string name="disconnected">Disconnected</string>
+
+    <string name="host_url_title">Host Url: </string>
+    <string name="carrier_id_title">Carrier ID: </string>
+    <string name="confirm">CONFIRM</string>
+
+    <string name="traffic_stats">UL: %1$s, DL: %2$s </string>
+    <string name="traffic_limit">%1$s of %2$s available</string>
+    <string name="traffic_unlimited">UNLIMITED</string>
+
+    <string name="current_server">CURRENT_SERVER</string>
+    <string name="connecting">Connecting</string>
+    <string name="paused">Paused</string>
+    <string name="privacy_policy_link">https://www.freeprivacypolicy.com/live/f34a4ec8-5d27-458a-9b69-cf967ef237b6</string>
+    <string name="fast_and_secure_vpn">Fast And Secure vpn</string>
+    <string name="ok">OK</string>
+    <string name="setting">Settings</string>
+
+
+    <string name="subscription_notices">You can cancel subscription or free trial any time by canceling your subscription thought google account setting, or it will automatically renew.
+        This Must be done 24 hours before the end of the current period</string>
+
+    <string name="no_not_really">No, not really</string>
+    <string name="get_premium">Get Premium</string>
+    <string name="no_ads">No Ads</string>
+    <string name="increase_connection_spreed">HighSpeed &amp; Unlimited Servers</string>
+    <string name="premium_vertical_location">Premium Servers</string>
+
+    <string name="updqteavaliable">Update Available</string>
+    <string name="update">Update </string>
+    <string name="updateisavaliabledownload"> is available for download.\nBy Downloading the latest update you will get the latest features and improvements</string>
+    <string name="update_now">Update Now</string>
+    <string name="cancel">Cancel</string>
+
+</resources>

@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.AnchorFree.hydra-vpn-android:reporting:0.19.7@aar">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../../../caches/transforms-2/files-2.1/6579daff4bbb7b69ab0eb6bbb597c1bb/jetified-reporting-0.19.7/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../caches/transforms-2/files-2.1/6579daff4bbb7b69ab0eb6bbb597c1bb/jetified-reporting-0.19.7/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../caches/transforms-2/files-2.1/6579daff4bbb7b69ab0eb6bbb597c1bb/jetified-reporting-0.19.7/res" />
+      <root url="file://$PROJECT_DIR$/../../../caches/transforms-2/files-2.1/6579daff4bbb7b69ab0eb6bbb597c1bb/jetified-reporting-0.19.7/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "967160816449",
+    "project_id": "turbofox-d9a11",
+    "storage_bucket": "turbofox-d9a11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967160816449:android:791a8843f0b03770b8b7c0",
+        "android_client_info": {
+          "package_name": "com.hyappinc.redxvpn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967160816449-t9tc6odlbibvq1bao3t20hm06i02mksr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI0oOKSAvpjdyzxiI5UpmpBfj2OUS0GA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967160816449-t9tc6odlbibvq1bao3t20hm06i02mksr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
